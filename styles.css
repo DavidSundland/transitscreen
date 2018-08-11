@@ -1,7 +1,14 @@
-h1 {
-    font-family: 'Rubik', sans-serif;
-    letter-spacing: -2px;
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
 }
+
+
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Francois One', sans-serif;
+font-family: 'Cuprum', sans-serif;
+*/
+
 
 .overlap {
     letter-spacing: -10px;
